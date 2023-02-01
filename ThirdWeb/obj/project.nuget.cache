@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "pXRF3GmqHYK1s5P+DWiQToz32Zhj5uGgEVEa8olfJuRG4zzhb/60sufWJWyubkSHGZiLTMnijS2602qGPirCjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.natyazhenko\\source\\repos\\ThirdWeb\\ThirdWeb\\ThirdWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v.natyazhenko\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcplvmp-sysnug1.zgs.loc/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget/nuget/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

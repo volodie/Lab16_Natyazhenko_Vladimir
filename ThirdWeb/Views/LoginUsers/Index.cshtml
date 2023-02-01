@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+<div class="text-center">
+    <h2>@ViewData["Result"]</h2>
+    <form>
+        <button asp-controller="LoginUsers" asp-action="RegUser">Add new user</button>
+        <button asp-controller="LoginUsers" asp-action="ViewAllUsers">View all users</button>
+    </form>
+</div>
